@@ -1,0 +1,36 @@
+The Running Time of Insertion Sort
+
+1. 33.1266
+2. 32.8021
+3. 33.1492
+4. 33.8772
+
+The Running Time of Merge Sort
+
+1. 1.1103
+2. 0.6931
+3. 0.6781
+4. 0.6823
+
+The Running Time of Quick Sort
+
+1. 0.6433
+2. 0.6301
+3. 0.6310
+4. 0.6348
+
+The Running Time of Hybrid Sort
+
+1. 0.6275
+2. 0.6340
+3. 0.6386
+4. 0.6306
+
+The Running Time of Heap Sort
+
+1. 0.6748
+2. 0.6710
+3. 0.6883
+4. 0.6868
+
+
